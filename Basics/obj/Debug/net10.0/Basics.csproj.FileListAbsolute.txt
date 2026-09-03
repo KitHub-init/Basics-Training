@@ -1,0 +1,15 @@
+/workspaces/Basics-Training/Basics/bin/Debug/net10.0/Basics
+/workspaces/Basics-Training/Basics/bin/Debug/net10.0/Basics.deps.json
+/workspaces/Basics-Training/Basics/bin/Debug/net10.0/Basics.runtimeconfig.json
+/workspaces/Basics-Training/Basics/bin/Debug/net10.0/Basics.dll
+/workspaces/Basics-Training/Basics/bin/Debug/net10.0/Basics.pdb
+/workspaces/Basics-Training/Basics/obj/Debug/net10.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Basics-Training/Basics/obj/Debug/net10.0/Basics.AssemblyInfoInputs.cache
+/workspaces/Basics-Training/Basics/obj/Debug/net10.0/Basics.AssemblyInfo.cs
+/workspaces/Basics-Training/Basics/obj/Debug/net10.0/Basics.csproj.CoreCompileInputs.cache
+/workspaces/Basics-Training/Basics/obj/Debug/net10.0/Basics.sourcelink.json
+/workspaces/Basics-Training/Basics/obj/Debug/net10.0/Basics.dll
+/workspaces/Basics-Training/Basics/obj/Debug/net10.0/refint/Basics.dll
+/workspaces/Basics-Training/Basics/obj/Debug/net10.0/Basics.pdb
+/workspaces/Basics-Training/Basics/obj/Debug/net10.0/Basics.genruntimeconfig.cache
+/workspaces/Basics-Training/Basics/obj/Debug/net10.0/ref/Basics.dll
